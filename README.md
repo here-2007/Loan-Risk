@@ -91,7 +91,7 @@ Hugging Face Datasets — Dataset source
 Clone the repository:
 ```
 git clone <https://github.com/here-2007/Loan-Risk>
-cd loan-risk-predictor
+cd Loan-Risk
 
 ```
 Install dependencies:
